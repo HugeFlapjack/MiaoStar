@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CubeView">
+        <attr name="cubeIndex" format="integer" />
+    </declare-styleable>
+</resources>
